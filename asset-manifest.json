@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pruden-reads/static/css/main.a70c1939.chunk.css",
+    "main.js": "/pruden-reads/static/js/main.5c77570a.chunk.js",
+    "main.js.map": "/pruden-reads/static/js/main.5c77570a.chunk.js.map",
+    "runtime~main.js": "/pruden-reads/static/js/runtime~main.be22cbf7.js",
+    "runtime~main.js.map": "/pruden-reads/static/js/runtime~main.be22cbf7.js.map",
+    "static/js/2.f6b8c9bd.chunk.js": "/pruden-reads/static/js/2.f6b8c9bd.chunk.js",
+    "static/js/2.f6b8c9bd.chunk.js.map": "/pruden-reads/static/js/2.f6b8c9bd.chunk.js.map",
+    "index.html": "/pruden-reads/index.html",
+    "precache-manifest.b5cb59555d8348694806c02abdc1be88.js": "/pruden-reads/precache-manifest.b5cb59555d8348694806c02abdc1be88.js",
+    "service-worker.js": "/pruden-reads/service-worker.js",
+    "static/css/main.a70c1939.chunk.css.map": "/pruden-reads/static/css/main.a70c1939.chunk.css.map",
+    "static/media/app.scss": "/pruden-reads/static/media/MaterialIcons-Regular.d120c85b.ttf"
+  }
+}
