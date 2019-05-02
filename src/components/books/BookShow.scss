@@ -1,0 +1,13 @@
+.book-details {
+  h1 {
+    font-size: 24px;
+  }
+  h2 {
+    font-size: 18px;
+  }
+  .display-rating {
+    > div {
+      margin-right: 5px;
+    }
+  }
+}

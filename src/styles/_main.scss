@@ -1,0 +1,51 @@
+@import 'variables';
+
+body * {
+  margin:  0;
+  padding: 0;
+  outline: none;
+}
+
+.color-text {
+  &--grey {
+    color: $grey;
+  }
+  &--teal {
+    color: $teal;
+  }
+  &--red {
+    color: $red;
+  }
+}
+
+.icon-bg {
+  img {
+    width: 100%;
+  }
+}
+
+.icon-sm {
+  img {
+    width: 50px;
+  }
+}
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+
+@for $i from 0 through 10 {
+  .mt-#{$i} {
+    margin-top: #{$i}rem;
+  }
+  .mb-#{$i} {
+    margin-bottom: #{$i}rem;
+  }
+  .ml-#{$i} {
+    margin-left: #{$i}rem;
+  }
+}

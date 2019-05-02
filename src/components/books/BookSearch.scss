@@ -1,0 +1,14 @@
+@import '../../styles/variables';
+
+.book-search {
+  .mdl-textfield__input {
+    border-radius: 5px;
+    outline: none;
+    border: solid 2px $teal;
+    padding: 10px;
+    color: $teal;
+    &::placeholder {
+      color: $teal;
+    }
+  }  
+}

@@ -1,0 +1,15 @@
+@import '../../styles/variables';
+
+.book-cell {
+  a {
+    text-decoration: none;
+  }
+  .mdl-card {
+    width: 100%;
+    padding: 4px;
+    flex-direction: initial;
+    min-height: 90px;
+    background-color: $lite-grey;
+    cursor: pointer;
+  }
+}
