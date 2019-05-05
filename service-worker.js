@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.0/workbox-sw.js");
 
 importScripts(
-  "/pruden-reads/precache-manifest.b5cb59555d8348694806c02abdc1be88.js"
+  "/pruden-reads/precache-manifest.c6484330f92dd9a2d0cc3dd52afca21a.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ddf261c46ae1a9a6fbb05c7efad2e02b",
+    "revision": "d7ee8d05956e8ea55d7e569da5f1f789",
     "url": "/pruden-reads/index.html"
   },
   {
-    "revision": "0ddc12ac7fbc5d0ffae4",
+    "revision": "7dc4a7ce4064adf8117b",
     "url": "/pruden-reads/static/css/main.a70c1939.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pruden-reads/static/js/2.f6b8c9bd.chunk.js"
   },
   {
-    "revision": "0ddc12ac7fbc5d0ffae4",
-    "url": "/pruden-reads/static/js/main.5c77570a.chunk.js"
+    "revision": "7dc4a7ce4064adf8117b",
+    "url": "/pruden-reads/static/js/main.07ad4e05.chunk.js"
   },
   {
     "revision": "680f7035cae721dc52c0",
