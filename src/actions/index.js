@@ -27,6 +27,10 @@ const searchBooksFailure = payload => {
 };
 
 export const searchBooks = query => dispatch => {
+  if(!query) {
+    dispatch(searchBooksFailure('Please enter book name.'));
+    return;
+  }
   dispatch(searchBooksRequest());
   books.get(`/search/index.xml?q=${query}`)
     .then(response => new x2js().xml2js(response.data))
